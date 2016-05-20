@@ -1,4 +1,4 @@
-FROM centos:base
+FROM centos:6.7
 
 MAINTAINER acceptedboy <972192420@qq.com>
 
